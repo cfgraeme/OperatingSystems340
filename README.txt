@@ -5,3 +5,5 @@ homework 1 parses GET and POST messages from a server and outputs corresponding 
 homework 2 is a basic shell. topics: parsing, forking a child process, reaping, utilizing pointers.
 
 homework 3 uses threads to get the number of anchor-tagged links from a URL, using a text file of URLs. NOTE: some URLs hang!
+
+homework 4 uses threads and mutex locks to simulate the dining philosophers problem, and detect deadlock.
